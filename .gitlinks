@@ -1,0 +1,8 @@
+# Projects
+Cogent modules/Cogent https://github.com/arindam-chk/Cogent.git main
+
+# Modules
+
+# Scripts
+build scripts/build https://github.com/chronoxor/CppBuildScripts.git master
+cmake scripts/cmake https://github.com/chronoxor/CppCMakeScripts.git master
