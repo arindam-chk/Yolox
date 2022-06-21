@@ -6,7 +6,7 @@ enable_testing()
 include(ExternalProject)
 ExternalProject_Add(Cogent
     SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/Cogent
-    PREFIX ${CMAKE_CURRENT_BINARY_DIR}/Cogent
+    PREFIX ${CMAKE_CURRENT_BINARY_DIR}
     INSTALL_COMMAND ""
     )
 
